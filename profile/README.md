@@ -1,12 +1,23 @@
 ## Hi there 👋
+협업 및 스터디 기록을 남겨요.
 
-<!--
+## 레포지토리 생성 가이드
+- 레포지토리를 쉽게 찾기 위해 `{기수}-{활동 타입}-{파트}-{이름}` 의 컨벤션을 지켜주세요!
+  - 35-APPJAM-SERVER-MAERONG
+- 파트명
+  - IOS
+  - ANDROID
+  - WEB
+  - SERVER
 
-**Here are some ideas to get you started:**
+### 스터디
+`35-STUDY-SERVER-{스터디 이름}`
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 솝커톤
+`35-SOPKATHON-SERVER-{팀 이름}`
+
+### 합동 세미나
+`35-COLLABORATION-SERVER-{팀 이름}`
+
+### 앱잼
+`35-APPJAM-SERVER-{팀이름}`
