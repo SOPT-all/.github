@@ -5,7 +5,7 @@
 - 레포지토리를 쉽게 찾기 위해 `{기수}-{활동 타입}-{파트}-{이름}` 의 컨벤션을 지켜주세요!
   - 36-APPJAM-SERVER-MAERONG
 - 파트명
-  - IOS
+  - iOS
   - ANDROID
   - WEB
   - SERVER
