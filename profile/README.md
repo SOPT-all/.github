@@ -80,7 +80,7 @@ Comming Soon 🔜
       <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/eef6a857-b300-46a0-b49e-69b40ba6b00f-300_300.png" width="100" /><br/>
       <strong>절로가</strong><br/>
       <a href="https://github.com/JEOLLOGA/JEOLLOGA-CLIENT">🌐 WEB</a><br/>
-      <a href="https://github.com/JEOLLOGA/JEOLLOGA-server">🖥️ SERVER</a>
+      <a href="https://github.com/JEOLLOGA/JEOLLOGA_SERVER">🖥️ SERVER</a>
     </td>
     <td align="center" width="33%">
       <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/59a1e5ea-697f-40fa-8446-9abbe93e8579-%EB%A1%9C%EA%B3%A0.png" width="100" /><br/>
@@ -121,9 +121,9 @@ Comming Soon 🔜
     <td align="center" width="33%">
       <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/a09e555f-ca00-4484-aefb-925f6886ad8f-spoony_logo_main.png" width="100" /><br/>
       <strong>Spoony</strong><br/>
-      <a href="https://github.com/TeamSpoony/Spoony-Android">🤖 ANDROID</a><br/>
-      <a href="https://github.com/TeamSpoony/Spoony-iOS">🍎 iOS</a><br/>
-      <a href="https://github.com/TeamSpoony/Spoony-Server">🖥️ SERVER</a>
+      <a href="https://github.com/spooooony/Spoony-Android">🤖 ANDROID</a><br/>
+      <a href="https://github.com/spooooony/Spoony-iOS">🍎 iOS</a><br/>
+      <a href="https://github.com/spooooony/Spoony-Server">🖥️ SERVER</a>
     </td>
   </tr>
   <tr>
