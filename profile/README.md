@@ -6,7 +6,7 @@
   
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sopt_official/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/company/sopt-official/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white)](https://www.linkedin.com/company/sopt-official/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCui_xDNrVlxAuGJUV8zmN6A)
 
 </div>
@@ -59,7 +59,7 @@ Comming Soon 🔜
     <td align="center" width="33%">
       <img src="https://avatars.githubusercontent.com/u/200058166?s=200&v=4" width="150" /><br/>
       <strong>confeti</strong><br/>
-      <a href="https://github.com/team-confeti/confeti-client">🌐 WEB</a><br/>
+      <a href="https://github.com/team-confeti/confeti-client" target="_blank">🌐 WEB</a><br/>
       <a href="https://github.com/team-confeti/confeti-server">🖥️ SERVER</a>
     </td>
     <td align="center" width="33%">
@@ -160,7 +160,7 @@ Comming Soon 🔜
     <td align="center" width="33%">
       <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/fd0a64da-3519-4c72-818e-06147e26c783-App%20Icon%20(300x300).png" width="150" /><br/>
       <strong>제 과제 빵점</strong><br/>
-      <a href="https://github.com/Team-BBANGZIP/BBANGZIP-ANDROID">🤖 Android</a><br/>
+      <a href="https://github.com/Team-BBANGZIP/BBANGZIP-ANDROID">🤖 ANDROID</a><br/>
       <a href="https://github.com/Team-BBANGZIP/BBANGZIP-iOS">🍎 iOS</a><br/>
       <a href="https://github.com/Team-BBANGZIP/BBANGZIP-SERVER">🖥️ SERVER</a>
     </td>
