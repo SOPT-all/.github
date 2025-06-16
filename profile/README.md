@@ -41,24 +41,25 @@
 </br>
 
 **역대 기수 APPJAM 프로젝트 모아보기**
+
 <!-- 36기 -->
 <details>
-<summary><b>36기</b></summary>
+  <summary><b>36기</b></summary>
 Comming Soon 🔜
 </details>
 
 <!-- 35기 -->
 <details>
-<summary><b>35기</b></summary>
+  <summary><b>35기</b></summary>
 
 <details>
-  
-<summary><b>WEB</b></summary>
+
+  <summary><b>WEB</b></summary>
   <div align="center">
     <table>
       <tr>
         <td align="center" width="33%">
-          <img src="https://avatars.githubusercontent.com/u/200058166?s=200&v=4" width="150" /><br/>
+          <img src="https://github.com/user-attachments/assets/5f58d95f-b66a-4f22-ab9f-86dec779953d" width="150" /><br/>
           <strong>confeti</strong><br/>
           <a href="https://github.com/team-confeti/confeti-client" target="_blank">🌐 WEB</a><br/>
           <a href="https://github.com/team-confeti/confeti-server">🖥️ SERVER</a>
