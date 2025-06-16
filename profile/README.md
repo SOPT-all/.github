@@ -5,9 +5,12 @@
 <div align=center>
   
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sopt_official/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedIn&logoColor=white)](https://www.linkedin.com/company/sopt-official/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCui_xDNrVlxAuGJUV8zmN6A)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/sopt_official/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white)](https://www.linkedin.com/company/sopt-official/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCui_xDNrVlxAuGJUV8zmN6A)
+[![Makers](https://img.shields.io/badge/-makers-000000?style=flat&logo=Github)](https://github.com/sopt-makers/)
+[![HomePage](https://img.shields.io/badge/-Official_Site-1E293B?style=flat)](https://www.sopt.org/)
+[![Playground](https://img.shields.io/badge/-playground-495870?style=flat)](https://playground.sopt.org/)
 
 </div>
 
