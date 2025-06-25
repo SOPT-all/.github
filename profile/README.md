@@ -527,7 +527,7 @@ Comming Soon 🔜
           <a href="https://github.com/GEON-PPANG/GEON-PPANG-SERVER">🖥️ SERVER</a>
         </td>
         <td align="center" width="33%">
-          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/938d4d5a-8129-421e-aa61-4b1fd40bfc4f-icon%20-%20edit%20this.png" width="150" /><br/>
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/509632fe-9eae-4eca-bd16-5f62e4cf22d2-Group%2048096235.png" width="150" /><br/>
           <strong>라이온하트</strong><br/>
           <a href="https://github.com/Team-LionHeart/LionHeart-AOS">🤖 ANDROID</a><br/>
           <a href="https://github.com/Team-LionHeart/LionHeart-iOS">🍎 iOS</a><br/>
