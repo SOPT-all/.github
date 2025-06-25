@@ -306,6 +306,134 @@ Comming Soon 🔜
 </details>
 </details>
 
+<!-- 33기 -->
+<details>
+  <summary><b>33기</b></summary>
+
+<details>
+
+  <summary>WEB</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/3e048a67-0691-4f24-a3dc-d906a162d734-%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png" width="150" /><br/>
+          <strong>Mile</strong><br/>
+          <a href="https://github.com/Mile-Writings/Mile-Client">🌐 WEB</a><br/>
+          <a href="https://github.com/Mile-Writings/Mile-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/9d9ee2db-b262-4269-823f-311f8713be7c-Frame%209825.png" width="150" /><br/>
+          <strong>Moddy</strong><br/>
+          <a href="https://github.com/TEAM-MODDY/moddy-web">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-MODDY/moddy-server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/45e0e482-c6d0-4f20-b9a3-776dc2db4939-%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png" width="150" /><br/>
+          <strong>moonshot</strong><br/>
+          <a href="https://github.com/MOONSHOT-Team/MOONSHOT-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/MOONSHOT-Team/MOONSHOT-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/ea0be524-e725-4878-af15-aebd92ed24dd-%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-01-03%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.16.30.png" width="150" /><br/>
+          <strong>Lecue</strong><br/>
+          <a href="https://github.com/Team-Lecue/Lecue-Client">🌐 WEB</a><br/>
+          <a href="https://github.com/Team-Lecue/Lecue-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/e8281170-62d5-4c7e-9946-906b78c0df40-%E1%84%91%E1%85%A1%E1%84%87%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB.png" width="150" /><br/>
+          <strong>Sweet</strong><br/>
+          <a href="https://github.com/SWEET-DEVELOPERS/sweet-client">🌐 WEB</a><br/>
+          <a href="https://github.com/SWEET-DEVELOPERS/sweet-server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/5d787b7f-78fa-4572-bc13-ab99c320f25e-%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%86%AB.png" width="150" /><br/>
+          <strong>논술메이트</strong><br/>
+          <a href="https://github.com/nonsoolmate/NONSOOLMATE-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/nonsoolmate/NONSOOLMATE-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details>
+  <summary>APP</summary>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/80f326ef-3abf-45cb-be44-35b703a0dc25-Group%201000012509.png" width="150" /><br/>
+          <strong>Don't be</strong><br/>
+          <a href="https://github.com/TeamDon-tBe/ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/TeamDon-tBe/Don-tBe-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/TeamDon-tBe/SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/0845d573-6280-4391-9914-a19b20438f22-doorip%20logo.png" width="150" /><br/>
+          <strong>doorip</strong><br/>
+          <a href="https://github.com/Team-Going/Going-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Going/Going-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Going/Going-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/88e89c83-bfaf-41ba-8b5b-8de6e44bc0e3-applogo@3x.png" width="150" /><br/>
+          <strong>PINGLE</strong><br/>
+          <a href="https://github.com/TeamPINGLE/PINGLE-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/TeamPINGLE/PINGLE-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/TeamPINGLE/PINGLE-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/6ec2d55d-08cd-4560-b827-b48f8b8a8499-toaster_appicon.jpg" width="150" /><br/>
+          <strong>TOASTER</strong><br/>
+          <a href="https://github.com/Link-MIND/Toaster_Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Link-MIND/TOASTER-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Link-MIND/TOASTER-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/f93d2a23-358b-4ed4-82ea-4ef38e2aa59d-%E1%84%89%E1%85%A9%E1%86%B8)%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%87%E1%85%AE%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png" width="150" /><br/>
+          <strong>모티부</strong><br/>
+          <a href="https://github.com/Team-Motivoo/Motivoo-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Motivoo/Motivoo-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Motivoo/Motivoo-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/938d4d5a-8129-421e-aa61-4b1fd40bfc4f-icon%20-%20edit%20this.png" width="150" /><br/>
+          <strong>소프티</strong><br/>
+          <a href="https://github.com/Team-Sopetit/Sopetit-Android-v2">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Sopetit/Sopetit-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Sopetit/Sopetit-server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/83150cb7-656b-41f2-820a-d24c675dfa46-appicon_1.png" width="150" /><br/>
+          <strong>웹소소</strong><br/>
+          <a href="https://github.com/Team-WSS/WSS-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-WSS/WSS-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-WSS/WSS-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/084a964a-b780-44ba-a4d0-72534deb8bd2-App%20logo.png" width="150" /><br/>
+          <strong>하면함</strong><br/>
+          <a href="https://github.com/Team-HMH/HMH-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-HMH/HMH_iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-HMH/HMH-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+</details>
+</details>
+
 
 
 
