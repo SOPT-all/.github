@@ -434,6 +434,131 @@ Comming Soon 🔜
 </details>
 </details>
 
+<!-- 32기 -->
+<details>
+  <summary><b>32기</b></summary>
 
+<details>
 
+  <summary>WEB</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/bf14bb33-d472-4f16-adc2-a2cf132cf8c9-IMG_5452.PNG" width="150" /><br/>
+          <strong>ASAP</strong><br/>
+          <a href="https://github.com/ASAP-as-soon-as-possible/ASAP_Client">🌐 WEB</a><br/>
+          <a href="https://github.com/ASAP-as-soon-as-possible/ASAP_Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/29677ae6-2d29-4e5b-ba88-7289f7af6df3-Square%20Logo.jpg" width="150"/><br/>
+          <strong>palms.blog</strong><br/>
+          <a href="https://github.com/palm-springs">🌐 WEB</a><br/>
+          <a href="https://github.com/palm-springs">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/1ead6baa-8cab-4992-bbfe-f20a09eb053b-logo%20width%201801.jpg" width="150" /><br/>
+          <strong>Tutice</strong><br/>
+          <a href="https://github.com/Gwasuwon-shot/Tutice_Client">🌐 WEB</a><br/>
+          <a href="https://github.com/Gwasuwon-shot/Tutice_Server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/afb2edf0-0247-408f-93ca-5428341d5abd-%EC%86%8C%ED%94%BC%20%EB%A1%9C%EA%B3%A0%20%EC%A7%84%EC%A7%9C%20%EC%B5%9C%EC%A2%85.jpg" width="150" /><br/>
+          <strong>소피</strong><br/>
+          <a href="https://github.com/SOPT-SOPHY/SOPHY-Client">🌐 WEB</a><br/>
+          <a href="https://github.com/SOPT-SOPHY/SOPHY-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/2916959c-72a5-4fa6-b8e6-262581bbe5a6-%EB%94%94%EC%8A%A4%EC%BD%B0%EC%9D%B4%EC%97%87%20%EC%8D%B8%EB%84%A4%EC%9D%BC.png" width="150" /><br/>
+          <strong>타투어</strong><br/>
+          <a href="https://github.com/TEAM-TATTOUR/tattour-client">🌐 WEB</a><br/>
+          <a href="https://github.com/SWEET-DEVELOPERS/sweet-server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
+<details>
+  <summary>APP</summary>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/7dcdda29-0d51-4a93-8068-9853e0deee68-PPP%20%EB%A1%9C%EA%B3%A0.png" width="150" /><br/>
+          <strong>PPP club</strong><br/>
+          <a href="https://github.com/Indipage/ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Indipage/PPPiOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Indipage/SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/578bc78b-7997-4122-b824-cb4f3bea4ca8-Group%20986624.png" width="150" /><br/>
+          <strong>PUZZLING</strong><br/>
+          <a href="https://github.com/Team-Puzzling/Puzzling_Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Puzzling/Puzzling_iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Puzzling/Puzzling_Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/ff57e528-fb3a-44a4-8915-0781a6a9073a-icon_playstore.png" width="150" /><br/>
+          <strong>SPARKLE</strong><br/>
+          <a href="https://github.com/U-is-Ni-in-Korea/Android-United">🤖 ANDROID</a><br/>
+          <a href="https://github.com/U-is-Ni-in-Korea/iOS-United">🍎 iOS</a><br/>
+          <a href="https://github.com/U-is-Ni-in-Korea/Server-United">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/8ec8d911-89ff-404b-9edd-5923e06b662a-app_icon.png" width="150" /><br/>
+          <strong>YELL:O</strong><br/>
+          <a href="https://github.com/team-yello/YELLO-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/team-yello/YELLO-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/team-yello/YELLO-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/c016a3b3-fe2a-4067-8481-cb4af50d64df-Group%201171275946.png" width="150" /><br/>
+          <strong>건빵</strong><br/>
+          <a href="https://github.com/GEON-PPANG/GEON-PPANG-AOS">🤖 ANDROID</a><br/>
+          <a href="https://github.com/GEON-PPANG/GEON-PPANG-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/GEON-PPANG/GEON-PPANG-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/938d4d5a-8129-421e-aa61-4b1fd40bfc4f-icon%20-%20edit%20this.png" width="150" /><br/>
+          <strong>라이온하트</strong><br/>
+          <a href="https://github.com/Team-LionHeart/LionHeart-AOS">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-LionHeart/LionHeart-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-LionHeart/LionHeart-Server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/8212972b-fe94-40db-bb6e-32b6fbe051b9-%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF.jpg" width="150" /><br/>
+          <strong>엄빠도 어렸다</strong><br/>
+          <a href="https://github.com/Team-Umbba/Umbba-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Umbba/Umbba-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Umbba/Umbba-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/3e4aba30-1bae-4b88-adb9-5d68fe0c8d4b-IMG_0059.PNG" width="150" /><br/>
+          <strong>위니</strong><br/>
+          <a href="https://github.com/team-winey/Winey-AOS">🤖 ANDROID</a><br/>
+          <a href="https://github.com/team-winey/Winey-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/team-winey/Winey-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/6bbdbfdc-62ad-45ab-af92-e09988cd9b22-App%20Logo.jpg" width="150" /><br/>
+          <strong>포포리</strong><br/>
+          <a href="https://github.com/TeamPophory/pophory-android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/TeamPophory/pophory-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/TeamPophory/pophory-server">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+</details>
+</details>
