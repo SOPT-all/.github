@@ -57,7 +57,7 @@ Comming Soon 🔜
 
 <details>
 
-  <summary><b>WEB</b></summary>
+  <summary>WEB</summary>
   <div align="center">
     <table>
       <tr>
@@ -105,7 +105,7 @@ Comming Soon 🔜
 </details>
 
 <details>
-  <summary><b>APP</b></summary>
+  <summary>APP</summary>
     
   <div align="center">
     <table>
@@ -176,4 +176,136 @@ Comming Soon 🔜
     </table>
   </div>
 </details>
+</details>
+
+<!-- 34기 -->
+<details>
+  <summary><b>34기</b></summary>
+
+<details>
+
+  <summary>WEB</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/bbe26959-1634-475c-a406-02c73c9455bd-symbol.png" width="150" /><br/>
+          <strong>BEAT</strong><br/>
+          <a href="https://github.com/TEAM-BEAT/BEAT-Client">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-BEAT/BEAT-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/a773f020-c7dc-437e-ae5b-dae3b342e7ed-logo.png" width="150" /><br/>
+          <strong>Morib</strong><br/>
+          <a href="https://github.com/morib-in/Morib-Client">🌐 WEB</a><br/>
+          <a href="https://github.com/morib-in/Morib-Server-v2">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/7da2a9e4-ee0a-4cfd-a347-0a4e859c980e-nutshell%20icon.jpg" width="150" /><br/>
+          <strong>NutShell</strong><br/>
+          <a href="https://github.com/TEAM-DAWM/SHELLIN-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-DAWM/SHELLIN-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/e7b398cf-8c3f-41d8-bcf6-34ab6215e403-%EC%B5%9C%EC%A2%85%EB%A1%9C%EA%B3%A0.png" width="150" /><br/>
+          <strong>PICKPLE</strong><br/>
+          <a href="https://github.com/PICK-PLE/PICKPLE-client">🌐 WEB</a><br/>
+          <a href="https://github.com/PICK-PLE/PICKPLE-server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/94166504-56e5-443e-a750-19c7cb7c4b1c-Favicon.png" width="150" /><br/>
+          <strong>Ti.Ki</strong><br/>
+          <a href="https://github.com/Team-Tiki/tiki-client">🌐 WEB</a><br/>
+          <a href="https://github.com/Team-Tiki/TIKI_SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/5d787b7f-78fa-4572-bc13-ab99c320f25e-%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%86%AB.png" width="150" /><br/>
+          <strong>선약</strong><br/>
+          <a href="https://github.com/TEAM-SEONYAK/SEONYAK_CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-SEONYAK/SEONYAK-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details>
+  <summary>APP</summary>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/29215121-371d-40bb-b249-73123ee3f8e4-%E1%84%91%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B3%20%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB.png" width="150" /><br/>
+          <strong>Cloudy</strong><br/>
+          <a href="https://github.com/Team-Clody/Clody_Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Clody/Clody_iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Clody/Clody_server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/c83ff2c0-b258-47f3-adac-65842177a83c-%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9_%E1%84%81%E1%85%AE%E1%84%86%E1%85%AE%E1%86%AF%E1%84%81%E1%85%AE%E1%86%B7%201.png" width="150" /><br/>
+          <strong>꾸물꿈</strong><br/>
+          <a href="https://github.com/OMZigak/KKUM_ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/OMZigak/KKUYOS">🍎 iOS</a><br/>
+          <a href="https://github.com/OMZigak/KKUMER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/79514eff-5b2e-43b2-9286-dd13789b15eb-symbol1.png" width="150" /><br/>
+          <strong>데이트로드</strong><br/>
+          <a href="https://github.com/TeamDATEROAD/DATEROAD-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/TeamDATEROAD/DATEROAD-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/TeamDATEROAD/DATEROAD-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://avatars.githubusercontent.com/u/173294718?s=200&v=4" width="150" /><br/>
+          <strong>오브</strong><br/>
+          <a href="https://github.com/Team-Offroad/Offroad-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Offroad/Offroad-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Offroad/Orb-Admin-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://avatars.githubusercontent.com/u/173128955?s=200&v=4" width="150" /><br/>
+          <strong>유니보이스</strong><br/>
+          <a href="https://github.com/Team-UniVoice/UniVoice_Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-UniVoice/UniVoice_iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-UniVoice/UniVoice_Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/ef0edebd-190b-4c2e-b2a7-256bad1a7aef-%E1%84%8B%E1%85%A2%E1%86%B8%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB.png" width="150" /><br/>
+          <strong>유영</strong><br/>
+          <a href="https://github.com/Team-Recordy/Recordy-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Recordy/Recordy-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Recordy/Recordy-Server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/09f70e0b-a9be-4495-9013-375eb75a5d66-D9F40B25-7A8C-4CEA-85E5-5948B9F319FE.png" width="150" /><br/>
+          <strong>터닝</strong><br/>
+          <a href="https://github.com/teamterning/Terning-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/teamterning/Terning-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/teamterning/Terning-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/5431cf53-047d-4091-8873-37c10abca6f1-%ED%95%9C%EB%81%BC%20%EB%A1%9C%EA%B3%A0.png" width="150" /><br/>
+          <strong>한끼족보</strong><br/>
+          <a href="https://github.com/Team-Hankki/hankki-android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Hankki/hankki-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Hankki/hankki-server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+</details>
+</details>
+
+
+
 
