@@ -349,7 +349,7 @@ Comming Soon 🔜
           <a href="https://github.com/SWEET-DEVELOPERS/sweet-server">🖥️ SERVER</a>
         </td>
         <td align="center" width="33%">
-          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/5d787b7f-78fa-4572-bc13-ab99c320f25e-%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%86%AB.png" width="150" /><br/>
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/00426881-1097-448e-ba6d-34064025c210-nonsoolmate_favicon.png" width="150" /><br/>
           <strong>논술메이트</strong><br/>
           <a href="https://github.com/nonsoolmate/NONSOOLMATE-CLIENT">🌐 WEB</a><br/>
           <a href="https://github.com/nonsoolmate/NONSOOLMATE-SERVER">🖥️ SERVER</a>
