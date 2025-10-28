@@ -1,4 +1,4 @@
-[![상단 배너](https://github.com/user-attachments/assets/e939dc79-7006-4a4c-9788-c799cb36aa48)](https://www.sopt.org/)
+[![상단 배너](https://github.com/user-attachments/assets/2c7f9b6e-83b1-45dd-aad4-6c082b56c7e1)](https://www.sopt.org/)
 
 > **대학생 연합 IT 벤처 창업 동아리 SOPT | 솝트**
 
