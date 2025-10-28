@@ -45,6 +45,12 @@
 
 **역대 기수 APPJAM 프로젝트 모아보기**
 
+<!-- 37기 -->
+<details>
+  <summary><b>37기</b></summary>
+Comming Soon 🔜
+</details>
+
 <!-- 36기 -->
 <details>
   <summary><b>36기</b></summary>
