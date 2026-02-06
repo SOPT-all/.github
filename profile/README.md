@@ -54,7 +54,110 @@ Comming Soon 🔜
 <!-- 36기 -->
 <details>
   <summary><b>36기</b></summary>
-Comming Soon 🔜
+
+<details>
+
+  <summary>WEB</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/905f27ea-2f7a-46e4-af85-d26a74fdd347-%E3%84%B9.png" width="150" /><br/>
+          <strong>하우미</strong><br/>
+          <a href="https://github.com/TEAM-HOUME/HOUME-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-HOUME/HOUME-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/3ef19af7-c8bf-4cb0-a244-2600f99b70fe-LOGO%20(512_512).png" width="150" /><br/>
+          <strong>NiNEDOT</strong><br/>
+          <a href="https://github.com/SOPT-36-NINEDOT/NINEDOT-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/SOPT-36-NINEDOT/NINEDOT-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/c7bc07ee-d6ec-456d-9a19-4b954eb77531-300_300.png" width="150" /><br/>
+          <strong>보핏</strong><br/>
+          <a href="https://github.com/team-bofit/bofit-client">🌐 WEB</a><br/>
+          <a href="https://github.com/team-bofit/bofit-server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/b9a185f3-2e9b-4209-afc2-90c5d839439c-%ED%94%8C%EA%B7%B8%20%EB%A1%9C%EA%B3%A0.png" width="150" /><br/>
+          <strong>메잇볼</strong><br/>
+          <a href="https://github.com/MATEBALL/MATEBALL-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/MATEBALL/MATEBALL-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/e379e4d6-75d4-47d2-9ded-9011a67e0438-simbol.png" width="150" /><br/>
+          <strong>Lococo</strong><br/>
+          <a href="https://github.com/LO-CO-CO/LOCOCO-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/LO-CO-CO/LOCOCO-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/3690fa68-7879-4b9e-a1aa-9226dfa5c0c8-%E1%84%91%E1%85%B5%E1%86%AB%E1%84%87%E1%85%A2%E1%86%A8_%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png" width="150" /><br/>
+          <strong>Pinback</strong><br/>
+          <a href="https://github.com/Pinback-Team/pinback-client">🌐 WEB</a><br/>
+          <a href="https://github.com/Pinback-Team/pinback-server">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details>
+  <summary>APP</summary>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/8eeef3ed-c4f5-41dc-ac0c-163646d89aa7-app-icon.png" width="150" /><br/>
+          <strong>솔플리</strong><br/>
+          <a href="https://github.com/SOLPLY/SOLPLY-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/SOLPLY/SOLPLY-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/SOLPLY/SOLPLY-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/bdbe4193-42af-4de5-8c31-ac38ddc96010-Certi_logo.png" width="150" /><br/>
+          <strong>Certi</strong><br/>
+          <a href="https://github.com/cerdeuk/CERTI-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/cerdeuk/CERTI-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/cerdeuk/CERTI-BE">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/61b6c0a2-607f-4ee6-bcb9-479eb1798406-%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png" width="150" /><br/>
+          <strong>PAWKEY</strong><br/>
+          <a href="https://github.com/PAW-KEY/PAWKEY-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/PAW-KEY/DOKI-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/PAW-KEY/PAWKEY-Backend">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/473a9288-bfdb-450a-93b0-5a847345dda9-IMG_0722.jpeg" width="150" /><br/>
+          <strong>봉투백서</strong><br/>
+          <a href="https://github.com/bongtubaekseo/BongBaek-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/bongtubaekseo/BongBaek-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/bongtubaekseo/BongBaek-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/f0ee6dcd-4d9e-46c4-a600-d66bf9263868-%E1%84%87%E1%85%B3%E1%84%85%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%202%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A7%E1%86%AF%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF.png" width="150" /><br/>
+          <strong>하이링구얼</strong><br/>
+          <a href="https://github.com/Hi-lingual/Hilingual-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Hi-lingual/Hilingual-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Hi-lingual/Hilingual-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/cbdc3571-8136-4762-abb7-a9a5619b349b-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3%20%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.png" width="150" /><br/>
+          <strong>Bye Boo</strong><br/>
+          <a href="https://github.com/36-APPJAM-HEARTZ/ByeBoo-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/36-APPJAM-HEARTZ/BYEBOO-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/36-APPJAM-HEARTZ/ByeBoo-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 </details>
 
 <!-- 35기 -->
