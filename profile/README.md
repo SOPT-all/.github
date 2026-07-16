@@ -3,7 +3,6 @@
 > **대학생 연합 IT 벤처 창업 동아리 SOPT | 솝트**
 
 <div align=center>
-  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/sopt_official/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedIn&logoColor=white)](https://www.linkedin.com/company/sopt-official/)
@@ -45,10 +44,119 @@
 
 **역대 기수 APPJAM 프로젝트 모아보기**
 
+<!-- 38기 -->
+<details>
+  <summary><b>38기</b></summary>
+Comming Soon 🔜
+</details>
+
 <!-- 37기 -->
 <details>
   <summary><b>37기</b></summary>
-Comming Soon 🔜
+
+<details>
+
+  <summary>WEB</summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/6e72974f-b2cd-4bac-841c-d9a20bdf9b98-%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EB%A1%9C%EA%B3%A0%20%EC%88%98%EC%A0%95.png" width="150" /><br/>
+          <strong>Comfit</strong><br/>
+          <a href="https://github.com/TEAM-COMFIT/COMFIT-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-COMFIT/COMFIT-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/12346076-813a-4e67-96f6-3bf966995848-bg.png" width="150" /><br/>
+          <strong>CareNA</strong><br/>
+          <a href="https://github.com/team-carena/carena-client">🌐 WEB</a><br/>
+          <a href="https://github.com/team-carena/carena-server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/895a4945-f3fe-4688-8305-122c2dc844d1-Full%20logo.png" width="150" /><br/>
+          <strong>Kareer</strong><br/>
+          <a href="https://github.com/team-kareer/kareer-client">🌐 WEB</a><br/>
+          <a href="https://github.com/team-kareer/kareer-server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/d5c81907-4da3-4345-b293-364139f71b78-logo_symbol_black.png" width="150" /><br/>
+          <strong>Snappin&#44;</strong><br/>
+          <a href="https://github.com/SNAPPIN-DIVE-SOPT/SNAPPIN-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/SNAPPIN-DIVE-SOPT/SNAPPIN-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/ffe177fa-b410-4cad-ad3a-5001d1e107f3-logo_1.png" width="150" /><br/>
+          <strong>CLUSTER</strong><br/>
+          <a href="https://github.com/TEAM-CLUSTAR/CLUSTAR-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-CLUSTAR/CLUSTAR-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/f4c8985a-0484-431b-a191-9ec0ac6283f6-%E1%84%91%E1%85%A1%E1%84%87%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB_%E1%84%80%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB.png" width="150" /><br/>
+          <strong>AMP</strong><br/>
+          <a href="https://github.com/TEAM-DECIBEL/AMP-CLIENT">🌐 WEB</a><br/>
+          <a href="https://github.com/TEAM-DECIBEL/AMP-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<details>
+  <summary>APP</summary>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/834c0bcd-3d2a-4d11-8ec8-fe8951a48573-KakaoTalk_20260203_134744334.png" width="150" /><br/>
+          <strong>KIERO</strong><br/>
+          <a href="https://github.com/Team-Kiero/Kiero-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/Team-Kiero/Kiero-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/Team-Kiero/Kiero-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/fcc9f9b2-0978-4145-9726-5ecffda4f716-로고.png" width="150" /><br/>
+          <strong>Flint</strong><br/>
+          <a href="https://github.com/imflint/Flint-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/imflint/Flint-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/imflint/Flint-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/44dad0bf-4de8-43f6-936b-8b87a8b99e0b-app%20icon.png" width="150" /><br/>
+          <strong>Cherrish</strong><br/>
+          <a href="https://github.com/TEAM-Cherrish/Cherrish-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/TEAM-Cherrish/Cherrish-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/TEAM-Cherrish/Cherrish-Server">🖥️ SERVER</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/473a9288-bfdb-450a-93b0-5a847345dda9-IMG_0722.jpeg" width="150" /><br/>
+          <strong>봉투백서</strong><br/>
+          <a href="https://github.com/bongtubaekseo/BongBaek-Android">🤖 ANDROID</a><br/>
+          <a href="https://github.com/bongtubaekseo/BongBaek-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/bongtubaekseo/BongBaek-Server">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/2006cedb-da01-4a8e-8fc0-2ec2bc63c9ca-app-icon.png" width="150" /><br/>
+          <strong>포티</strong><br/>
+          <a href="https://github.com/team-poti/POTI-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/team-poti/POTI-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/team-poti/POTI-SERVER">🖥️ SERVER</a>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://s3.ap-northeast-2.amazonaws.com/sopt-makers-internal//prod/image/project/2b572b1c-345e-48d3-959b-062bdf47ff20-%EC%8A%A4%EB%A7%A4%EC%8B%B1%20%EB%A1%9C%EA%B3%A0.png" width="150" /><br/>
+          <strong>스매싱</strong><br/>
+          <a href="https://github.com/TEAM-SMASHING/SMASHING-ANDROID">🤖 ANDROID</a><br/>
+          <a href="https://github.com/TEAM-SMASHING/SMASHING-iOS">🍎 iOS</a><br/>
+          <a href="https://github.com/TEAM-SMASHING/SMASHING-SERVER">🖥️ SERVER</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 </details>
 
 <!-- 36기 -->
