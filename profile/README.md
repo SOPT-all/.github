@@ -1,4 +1,6 @@
-[![상단 배너](https://github.com/user-attachments/assets/6b229aee-bda9-4b76-9199-fe024c3d83aa)](https://www.sopt.org/)
+[![상단 배너](https://github.com/user-attachments/assets/ebe4d685-0888-4729-bd1f-91157bdbacd6)](https://www.sopt.org/)
+
+
 
 > **대학생 연합 IT 벤처 창업 동아리 SOPT | 솝트**
 
@@ -28,9 +30,9 @@
 **활동 타입 예시**
 | 활동 타입       | 예시 컨벤션                                   |
 |----------------|-----------------------------------------------|
-| 스터디         | `38-STUDY-SERVER-{스터디 이름}`               |
-| 솝커톤         | `38-SOPKATHON-SERVER-{팀 이름}`               |
-| 합동 세미나    | `38-COLLABORATION-SERVER-{팀 이름}`           |
+| 스터디         | `39-STUDY-SERVER-{스터디 이름}`               |
+| 솝커톤         | `39-SOPKATHON-SERVER-{팀 이름}`               |
+| 합동 세미나    | `39-COLLABORATION-SERVER-{팀 이름}`           |
 
 **파트명**
 
